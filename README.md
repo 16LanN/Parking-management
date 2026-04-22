@@ -123,41 +123,20 @@ classDiagram
     ParkingController --> ParkingView
 ```
 
-## 12) Screenshots
-Add screenshots in this section before submission:
-- Main dashboard
-- Vehicle entry form
-- Active tickets table
-- Exit payment notification
-- Reports panel
-
-Example:
-```md
-![Main Window](screenshots/main-window.png)
-![Reports](screenshots/reports.png)
-```
-
-## 13) Weekly Meeting Documentation
-Weekly summaries are stored in:
-- `weekly_meetings.md`
-
-Also upload the Google Docs link in this section:
-- [Add Google Docs Link]
-
-## 14) Commit History Requirement
+## 12) Commit History Requirement
 The project must have commits starting more than 3 weeks before submission date.
 
-## 15) Running the Project
+## 13) Running the Project
 ```bash
 python parking_management_system.py
 ```
 
-## 16) Unit Tests
+## 14) Unit Tests
 ```bash
 python -m unittest -v
 ```
 
-## 17) Submission
+## 15) Submission
 Submit the GitHub repository link after completing:
 - Project requirements implementation
 - Team member list and role assignment

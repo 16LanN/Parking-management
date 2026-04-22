@@ -123,23 +123,20 @@ classDiagram
     ParkingController --> ParkingView
 ```
 
-## 12) Commit History Requirement
-The project must have commits starting more than 3 weeks before submission date.
-
-## 13) Running the Project
+## 12) Running the Project
 ```bash
 python parking_management_system.py
 ```
 
-## 14) Unit Tests
+## 13) Unit Tests
 ```bash
 python -m unittest -v
 ```
 
-## 15) Submission
+## 14) Submission
 Submit the GitHub repository link after completing:
 - Project requirements implementation
 - Team member list and role assignment
-- README + UML + screenshots + weekly meetings
+- README + UML + screenshots
 - Stable commit history
 - Presentation slides
